@@ -1,5 +1,5 @@
 # SpringBootApi
-An application to demonstrate how Spring Boot, Spring MVC, Spring Data, and Mongo can be used together to create a simple RESTful API.  
+An application to demonstrate how Spring Boot, Spring MVC, Spring Data, and Mongo can be used together to create a simple RESTful API using an embedded tomcat server.
 
 # Dependencies
 * Java 1.8 JDK
