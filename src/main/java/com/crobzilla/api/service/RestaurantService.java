@@ -1,6 +1,6 @@
 package com.crobzilla.api.service;
 
-import com.crobzilla.api.application.RestaurantRepository;
+import com.crobzilla.api.repository.RestaurantRepository;
 import com.crobzilla.api.model.Restaurant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
