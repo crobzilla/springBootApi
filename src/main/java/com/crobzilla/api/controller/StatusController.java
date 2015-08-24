@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/api/")
 public class StatusController {
 
-    @RequestMapping("/")
+    @RequestMapping("/status")
     public String index() {
         return "Up and running";
     }
