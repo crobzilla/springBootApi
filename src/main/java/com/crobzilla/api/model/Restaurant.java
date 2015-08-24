@@ -6,9 +6,6 @@ import org.springframework.data.mongodb.core.mapping.Field;
 
 import java.util.List;
 
-/**
- * Created by crobinson on 8/20/15.
- */
 @Document(collection = "restaurants")
 public class Restaurant {
 
@@ -21,7 +18,6 @@ public class Restaurant {
     private String cuisine;
     private List<Grade> grades;
     private String name;
-
 
     public String getId() {
         return id;

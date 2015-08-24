@@ -2,9 +2,6 @@ package com.crobzilla.api.model;
 
 import java.util.Date;
 
-/**
- * Created by crobinson on 8/20/15.
- */
 public class Grade {
 
     private Date date;

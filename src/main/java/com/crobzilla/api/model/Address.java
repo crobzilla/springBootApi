@@ -2,9 +2,6 @@ package com.crobzilla.api.model;
 
 import java.util.List;
 
-/**
- * Created by crobinson on 8/20/15.
- */
 public class Address {
 
     private String building;
