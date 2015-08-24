@@ -1,4 +1,4 @@
-package com.crobzilla.api.application;
+package com.crobzilla.api;
 
 import java.util.Arrays;
 
@@ -8,9 +8,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
 
+@ComponentScan
 @SpringBootApplication
-@ComponentScan("com.crobzilla.api")
-@EnableMongoRepositories("com.crobzilla.api.repositories")
+@EnableMongoRepositories
 public class Application {
 
     public static void main(String[] args) {
