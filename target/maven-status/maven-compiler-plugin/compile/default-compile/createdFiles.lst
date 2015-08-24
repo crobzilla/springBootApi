@@ -1,8 +1,0 @@
-com/crobzilla/api/controller/RestaurantController.class
-com/crobzilla/api/model/Restaurant.class
-com/crobzilla/api/application/Application.class
-com/crobzilla/api/model/Address.class
-com/crobzilla/api/model/Grade.class
-com/crobzilla/api/application/RestaurantRepository.class
-com/crobzilla/api/controller/StatusController.class
-com/crobzilla/api/service/RestaurantService.class
